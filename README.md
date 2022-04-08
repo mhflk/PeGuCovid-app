@@ -4,6 +4,3 @@ Yet another covid19 app... ¯\\_(ツ)\\_/¯
 
 https://github.com/NovelCOVID/API
 
-## Contact
-
-goncalo@gmagno.dev
