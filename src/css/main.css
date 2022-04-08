@@ -1,0 +1,35 @@
+/* @import url('https://fonts.googleapis.com/css?family=Anton'); */
+
+@font-face {
+  font-family: 'Hermit-Regular';
+  src: local('Hermit-Regular'),
+    url(../fonts/Hermit-Regular.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Hermit-Bold';
+  src: local('Hermit-Bold'), url(../fonts/Hermit-Bold.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Hermit-Light';
+  src: local('Hermit-Light'), url(../fonts/Hermit-Light.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Hermit-RegularItalic';
+  src: local('Hermit-RegularItalic'),
+    url(../fonts/Hermit-RegularItalic.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Hermit-BoldItalic';
+  src: local('Hermit-BoldItalic'),
+    url(../fonts/Hermit-BoldItalic.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Hermit-LightItalic';
+  src: local('Hermit-LightItalic'),
+    url(../fonts/Hermit-LightItalic.woff2) format('woff2');
+}
