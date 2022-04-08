@@ -51,6 +51,15 @@ export const StatusBar = (props: StatusBarProps) => {
         open={Boolean(anchorEl)}
         onClose={handleMenuClose}
       >
+
+        <MenuItem
+          onClick={() => {
+            window.open('https://pegucovid.netlify.app/', '_blank');
+            handleMenuClose();
+          }}
+        >
+          Website
+        </MenuItem>
         <MenuItem
           onClick={() => {
             window.open('https://github.com/NovelCOVID/API', '_blank');
@@ -61,7 +70,7 @@ export const StatusBar = (props: StatusBarProps) => {
         </MenuItem>
         <MenuItem
           onClick={() => {
-            window.open('https://github.com/gmagno/covid19', '_blank');
+            window.open('https://github.com/mhflk/PeGuCovid-app', '_blank');
             handleMenuClose();
           }}
         >
