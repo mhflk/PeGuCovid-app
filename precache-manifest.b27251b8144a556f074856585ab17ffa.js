@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86ae6aadf57793cbc7110a62a80ff426",
+    "revision": "a7cc4406c263d725c59ce63a610882e4",
     "url": "/PeGuCovid-app/index.html"
   },
   {
