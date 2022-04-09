@@ -92,7 +92,7 @@ export const About = () => {
         </Typography>
         <Typography align="center">
           <Link
-            href="https://github.com/gmagno/covid19"
+            href="https://github.com/mhflk/PeGuCovid-app"
             onClick={() => { }}
             color="inherit"
             target="_blank"

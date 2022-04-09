@@ -106,7 +106,7 @@ export const StatusBar = (props: StatusBarProps) => {
           </Tooltip>
           <div className={classes.spacer} />
           <Tooltip title="refresh" arrow={true}>
-            <IconButton onClick={props.onRefreshButtonClick}>
+            <IconButton onClick={() => { }} href="/">
               <RefreshIcon />
             </IconButton>
           </Tooltip>

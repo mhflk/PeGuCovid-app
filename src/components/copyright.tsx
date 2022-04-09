@@ -17,7 +17,7 @@ export const Copyright = () => {
     <Box className={classes.box}>
       <Typography variant="body2" color="textSecondary" align="center">
         {'Copyright © '}
-        <Link color="inherit" href="https://thulina2004.netlify.app/">
+        <Link color="inherit" href="https://thulina2004.netlify.app/" target='blank__'>
           Thulina
         </Link>{' '}
         {new Date().getFullYear()}
