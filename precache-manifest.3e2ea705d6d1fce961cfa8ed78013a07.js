@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7cc4406c263d725c59ce63a610882e4",
+    "revision": "3fee224662c7657b6a2f156fc5d77fe9",
     "url": "/PeGuCovid-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PeGuCovid-app/static/css/2.768d3256.chunk.css"
   },
   {
-    "revision": "9473b9fb8a393d50266b",
+    "revision": "45908101937b3ed88d87",
     "url": "/PeGuCovid-app/static/css/main.d3ddda6f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PeGuCovid-app/static/js/2.963147df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9473b9fb8a393d50266b",
-    "url": "/PeGuCovid-app/static/js/main.078f8462.chunk.js"
+    "revision": "45908101937b3ed88d87",
+    "url": "/PeGuCovid-app/static/js/main.767d6556.chunk.js"
   },
   {
     "revision": "d4e5aea8b0d5eb55277f",

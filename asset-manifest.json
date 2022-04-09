@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PeGuCovid-app/static/css/main.d3ddda6f.chunk.css",
-    "main.js": "/PeGuCovid-app/static/js/main.078f8462.chunk.js",
-    "main.js.map": "/PeGuCovid-app/static/js/main.078f8462.chunk.js.map",
+    "main.js": "/PeGuCovid-app/static/js/main.767d6556.chunk.js",
+    "main.js.map": "/PeGuCovid-app/static/js/main.767d6556.chunk.js.map",
     "runtime-main.js": "/PeGuCovid-app/static/js/runtime-main.952b7339.js",
     "runtime-main.js.map": "/PeGuCovid-app/static/js/runtime-main.952b7339.js.map",
     "static/css/2.768d3256.chunk.css": "/PeGuCovid-app/static/css/2.768d3256.chunk.css",
     "static/js/2.963147df.chunk.js": "/PeGuCovid-app/static/js/2.963147df.chunk.js",
     "static/js/2.963147df.chunk.js.map": "/PeGuCovid-app/static/js/2.963147df.chunk.js.map",
     "index.html": "/PeGuCovid-app/index.html",
-    "precache-manifest.b27251b8144a556f074856585ab17ffa.js": "/PeGuCovid-app/precache-manifest.b27251b8144a556f074856585ab17ffa.js",
+    "precache-manifest.3e2ea705d6d1fce961cfa8ed78013a07.js": "/PeGuCovid-app/precache-manifest.3e2ea705d6d1fce961cfa8ed78013a07.js",
     "service-worker.js": "/PeGuCovid-app/service-worker.js",
     "static/css/2.768d3256.chunk.css.map": "/PeGuCovid-app/static/css/2.768d3256.chunk.css.map",
     "static/css/main.d3ddda6f.chunk.css.map": "/PeGuCovid-app/static/css/main.d3ddda6f.chunk.css.map",
@@ -54,6 +54,6 @@
     "static/css/2.768d3256.chunk.css",
     "static/js/2.963147df.chunk.js",
     "static/css/main.d3ddda6f.chunk.css",
-    "static/js/main.078f8462.chunk.js"
+    "static/js/main.767d6556.chunk.js"
   ]
 }
