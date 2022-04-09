@@ -24,8 +24,9 @@ const useStyles = makeStyles((theme) => ({
 
 export enum FooterSelection {
   Global = 0,
-  Countries,
   Stats,
+  Countries,
+
   About
 }
 
@@ -55,19 +56,20 @@ export const Footer = (props: FooterProps) => {
           label={FooterSelection[FooterSelection.Global]}
           icon={<FormatListBulletedIcon />}
         />
-        <BottomNavigationAction
-          classes={{
-            selected: classes.selected
-          }}
-          label={FooterSelection[FooterSelection.Countries]}
-          icon={<LocationCityRoundedIcon />}
-        />
+
         <BottomNavigationAction
           classes={{
             selected: classes.selected
           }}
           label={FooterSelection[FooterSelection.Stats]}
           icon={<TimelineIcon />}
+        />
+        <BottomNavigationAction
+          classes={{
+            selected: classes.selected
+          }}
+          label={FooterSelection[FooterSelection.Countries]}
+          icon={<LocationCityRoundedIcon />}
         />
         <BottomNavigationAction
           classes={{

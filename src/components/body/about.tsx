@@ -16,6 +16,9 @@ const useStyles = makeStyles((theme) => ({
   },
   container: {
     marginBottom: '100px'
+  },
+  Typography: {
+    marginTop: "10px"
   }
 }));
 
@@ -66,60 +69,29 @@ export const About = () => {
       </Container>
       <Container>
         <Typography align="center">
-          <Link
-            href="https://pegucovid.netlify.app/"
-            onClick={() => { }}
-            color="inherit"
-            target="_blank"
-          >
-            <i className="fa fa-globe" aria-hidden="true"></i> Website
-          </Link>
+
+          PeGu covid-19 meter is an app which can be used to watch live status of covid-19 report of any country. You'll be able to find some informations like total cases,new cases,total deaths ,new deaths and etc.
+
         </Typography>
-        <Typography align="center">
-          <Link
-            href="https://github.com/NovelCOVID/API"
-            onClick={() => { }}
-            color="inherit"
-            target="_blank"
-          >
-            <i className="fa fa-signal" aria-hidden="true"></i> Data source
-          </Link>
-        </Typography>
-        <Typography align="center">
-          <Link href="https://thulina2004.netlify.app/" onClick={() => { }} color="inherit" target="_blank">
-            <i className="fa fa-camera" aria-hidden="true"></i> portfilio
-          </Link>
-        </Typography>
-        <Typography align="center">
-          <Link
-            href="https://github.com/mhflk/PeGuCovid-app"
-            onClick={() => { }}
-            color="inherit"
-            target="_blank"
-          >
-            <i className="fa fa-github" aria-hidden="true"></i> Source code
-          </Link>
-        </Typography>
-        <Typography align="center">
-          <Link
-            href="https://github.com/mhflk"
-            onClick={() => { }}
-            color="inherit"
-            target="_blank"
-          >
-            <i className="fa fa-github" aria-hidden="true"></i> thulina
-          </Link>
-        </Typography>
-        <Typography align="center">
-          <Link
-            href="mailto:endhamfc@gmail.com"
-            onClick={() => { }}
-            color="inherit"
-            target="_blank"
-          >
-            <i className="fa fa-envelope" aria-hidden="true"></i> Contact
-          </Link>
-        </Typography>
+
+
+
+        <Box m={2} pt={3}>
+          <Typography align="center" >
+
+            This app might take several minutes to be updated since PeGu covid-19 meter is issuing verified data from reliable sources, such as api.covid19api.com and corona.lmao.ninja
+
+          </Typography>
+        </Box>
+        <Box m={2} pt={3}>
+
+          <Typography align="center">
+
+            PeGu is a joint venture between two owners (Thulina Perera - CEO & Founder,Dewwandi Gunawardhana - CEO & Founder) , We alwys try to make something that would make life mush easier. Enjoy the app !
+
+          </Typography>
+        </Box>
+
 
       </Container>
     </React.Fragment>
