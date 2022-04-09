@@ -36,11 +36,11 @@ export const CountriesTable = (props: StatsProps) => {
 
   const options = {
     filter: false,
-    download: true,
+    download: false,
     search: true,
-    print: true,
+    print: false,
     viewColumns: true,
-    responsive: 'scrollFullHeight',
+    responsive: 'scrollFullHeight,scrollFullWidth',
     selectableRows: 'none',
     pagination: true
   };
