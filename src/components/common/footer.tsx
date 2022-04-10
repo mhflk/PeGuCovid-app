@@ -18,7 +18,7 @@ const useStyles = makeStyles((theme) => ({
     width: '100%'
   },
   selected: {
-    color: '#00B0FF !important'
+    color: '#1E74FDFF !important'
   }
 }));
 
