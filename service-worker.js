@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/PeGuCovid-app/precache-manifest.90d57afb33c415402d037d331ca26097.js"
+  "/PeGuCovid-app/precache-manifest.e7237ffddb374b315f5f013ac351df1c.js"
 );
 
 self.addEventListener('message', (event) => {
