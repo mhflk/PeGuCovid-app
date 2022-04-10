@@ -106,7 +106,7 @@ export const StatusBar = (props: StatusBarProps) => {
           </Tooltip>
           <div className={classes.spacer} />
           <Tooltip title="refresh" arrow={true}>
-            <IconButton onClick={() => { }} href="https://mhflk.github.io/PeGuCovid-app/">
+            <IconButton onClick={() => {window.location.reload(); }} >
               <RefreshIcon />
             </IconButton>
           </Tooltip>
